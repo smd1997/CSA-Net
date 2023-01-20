@@ -19,6 +19,6 @@ python Train.py
 
 ## Contact Information
 
-If you have any suggestions or questions, you can contact us: songmengdie@mail.ustc.edu.cn
+If you have any suggestions or questions, you can contact us: smengdie@mail.ustc.edu.cn
  
 Thanks for your attention!
